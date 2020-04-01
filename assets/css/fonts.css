@@ -1,22 +1,49 @@
-/* webfonts */
+
+
 
 @font-face {
-    font-family: "SF Display";
-    font-weight: 300;
-    src: url(../fonts/SFProDisplay-Light.ttf);
+  font-family: "SF Pro Display";
+  font-style:normal;
+  font-weight: 300;
+  src:  url(../fonts/SFProDisplay-Light.ttf) format("truetype");
 }
 @font-face {
-    font-family: "SF Display";
-    font-weight: 500;
-    src: url(../fonts/SFProDisplay-Medium.ttf);
+  font-family: "SF Pro Display";
+  font-style:normal;
+  font-weight: 400;
+  src: url(../fonts/SFProDisplay-Regular.ttf) format("truetype");
 }
 @font-face {
-    font-family: "SF Display";
-    font-weight: 400;
-    src: url(../fonts/SFProDisplay-Regular.ttf);
+  font-family: "SF Pro Display";
+  font-style:normal;
+  font-weight: 500;
+  src: url(../fonts/SFProDisplay-Medium.ttf) format("truetype") ;
 }
 @font-face {
-    font-family: "SF Display";
-    font-weight: 600;
-    src: url(../fonts/SFProDisplay-Semibold.ttf);
+  font-family: "SF Pro Display";
+  font-style:normal;
+  font-weight: 600;
+  src:  url(../fonts/SFProDisplay-Semibold.ttf) format("truetype");
 }
+
+/* @font-face {
+	font-family:'SF Pro Text';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺︎'), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2") format("woff2"), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff") format("woff"), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro Text';
+	font-style:italic;
+	font-weight:600;
+	src:local('☺︎'), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.woff2") format("woff2"), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.woff") format("woff"), url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold-italic.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro Text 600';
+	src:url("http://www.apple.com//wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.eot");
+
+} */
